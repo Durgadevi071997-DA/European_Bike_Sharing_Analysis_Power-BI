@@ -241,3 +241,7 @@ Using data analytics and visualization techniques, the project improves operatio
 The analysis also highlights the importance of sustainable urban transportation systems in reducing traffic congestion and environmental pollution.
 
 Overall, the project demonstrates how data-driven solutions can improve smart mobility systems and enhance urban transportation management across Europe.
+
+## Author 
+
+Durgadevi M Aspiring Data Analyst 
